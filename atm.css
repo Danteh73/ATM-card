@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+}
+.im-bank {
+background-color: rgb(104, 104, 247);
+margin-left: 300px;
+margin-right: 300px;
+margin-top: 100px;
+border-radius: 5%;
+margin-bottom: 100px;
+}
+.ctm-1 {
+    padding-top: 4px;
+    padding-left: 20px;
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+
+}
+.chip {
+    padding-top: 30px;
+    padding-left: 50px;
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    align-items: center;
+}
+.card-no {
+    padding-left: 50px;
+    display: block;
+    color: white;
+    width: 600px;
+    height: auto;
+    border: px solid #333;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    text-align: justify;
+}
+.valid {
+    padding-left: 70px;
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+.name {
+    font-weight: bold;
+    font-size: medium;
+    padding-left: 20px;
+    color: white;
+    display: block;
+}
+.ac-container .ac-no {
+    font-weight: bold;
+    padding-left: 20px;
+    color: white;
+    font-size: 18px;
+
+
+}
+.ac-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.ac-container img {
+    width: 120px;
+    height: 60px;
+}
+.debit {
+    padding-bottom: 10px;
+    display: block;
+    margin-left: 680px;
+    color: white;
+    padding-right: 20px;
+}
